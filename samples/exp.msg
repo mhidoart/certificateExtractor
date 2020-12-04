@@ -1,53 +1,9 @@
-import base64
-#import regex
-import re
-
-
-class base64Extractor:
-    def __init__(self):
-        self.listBase64 = list()
-
-    def isBase64(self, text):
-        try:
-            return base64.b64encode(base64.b64decode(str(text))) == text
-        except Exception:
-            return False
-
-    def extract_from_file(self, file_path):
-        content_type = "Content-Transfer-Encoding: base64"
-        f = open(file_path, "r")
-        lines = [x.strip('\n')
-                 for x in list(filter(None, f.readlines()))]
-        certificate = None
-        detectCertificate = False
-        for item in lines:
-            if(content_type in item):
-                detectCertificate = True
-            if(detectCertificate):
-                #print('am here item = ', item)
-                #print('certificate  = ', certificate)
-                if(item == '' and certificate == None):
-                    certificate = ""
-                    print("start")
-                elif(item != '' and certificate != None):
-                    certificate += str(item)
-                elif item == '' and certificate != None:
-                    print("stop")
-                    self.listBase64.append(certificate)
-                    certificate = None
-                    detectCertificate = False
-        print(self.listBase64)
-        print(len(self.listBase64))
-
-    def extract_from_text(self, text):
-        r1 = re.findall(
-            r"^ (?: [A-Za-z0-9+/]{4})*(?: [A-Za-z0-9+/]{2} == |[A-Za-z0-9+/]{3}=)?$", text)
-        print(r1)
-
-
-parser = base64Extractor()
-parser.extract_from_file("samples/1.msg")
-'''parser.extract_from_text("""
+--_006_AM9P191MB12215939AD91706233A9F44BF7F30AM9P191MB1221EURP_
+Content-Type: image/jpeg; name="image002.jpg"
+Content-Description: image002.jpg
+Content-Disposition: inline; filename="image002.jpg"; size=1929;
+	creation-date="Wed, 02 Dec 2020 10:15:01 GMT";
+	modification-date="Wed, 02 Dec 2020 10:15:01 GMT"
 Content-ID: <image002.jpg@01D6C89C.449D4820>
 Content-Transfer-Encoding: base64
 
@@ -84,5 +40,6 @@ ckQA5EEHyg/Vup/Somm1ZDja92efz6fc65cRabYpucNukkI+WIe59fau/tfDen21rDB5O/ykVNx6
 nAxmtC1srWxgENrCkMY/hUY/H3qxTpc1KkqUHov1JqxjWqyqzV2/yQUtFFUMKKKKAOb8T6rPpksb
 faJIYzEWiEYH7yQEfKcg8Y/D3p1xqkq+KrWza5MUUsKMsX95iWz/AAn0HcUUUAS6c2qTajezy3AN
 pHLLGqEg9CNuBjjHPc5qhYXmrnSr1p5y832NZ4TkHBIbPYY6dP1oooAkj1Ke50S8n0y4Yxm5jjtp
-G64JQN1yepbrV6/S9jXTI/ts0bPMI5ihU7htJPJHqB6UUUAbI6UUUUALRRRQB//Z""")
-'''
+G64JQN1yepbrV6/S9jXTI/ts0bPMI5ihU7htJPJHqB6UUUAbI6UUUUALRRRQB//Z
+
+--_006_AM9P191MB12215939AD91706233A9F44BF7F30AM9P191MB1221EURP_--
