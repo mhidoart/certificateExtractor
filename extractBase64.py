@@ -26,11 +26,5 @@ class base64Extractor:
 
 
 parser = base64Extractor()
-parser.extract_from_text("""
-<div>
-  <p>Taken from wikpedia</p>
-  <img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAAUA
-    AAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO
-        9TXL0Y4OHwAAAABJRU5ErkJggg==" alt="Red dot" />
-</div>
-""")
+parser.extract_from_text("""cmdkamdkeXRkeXRkeWR5dGR5anRkeXRkamR5dGRkZGRkZGRkZGRkeXRnZmRoZnhyZ2RqZ2R5dGR5dGR5ZHl0ZHlqdGR5dGRqZHl0ZGRkZGRkZGRkZGR5dGdmZGhmeHJnZGpnZHl0ZHl0ZHlkeXRkeWp0ZHl0ZGpkeXRkZGRkZGRkZGRkZHl0Z2ZkaGZ4cmdkamdkeXRkeXRkeWR5dGR5anRkeXRkamR5dGRkZGRkZGRkZGRkeXRnZmRoZng=""")
+
