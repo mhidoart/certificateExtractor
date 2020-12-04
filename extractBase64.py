@@ -24,20 +24,23 @@ class Base64Extractor:
             if(content_type in item):
                 detectCertificate = True
             if(detectCertificate):
-                #print('am here item = ', item)
-                #print('certificate  = ', certificate)
+                # check if the current line could be a start of a certificate
                 if(item == '' and certificate == None):
                     certificate = ""
-                    print("start")
+                    # print("start")
                 elif(item != '' and certificate != None):
+                    # after detecting the start of a certificate i collect each line from the start in the variable certificate
                     certificate += str(item)
                 elif item == '' and certificate != None:
-                    print("stop")
+                    # print("stop")
+                    # the end of the certificate ( add the detected certificate to the list of certificates 'self.listBase64'
+                    # + re init certificate variable to contain next detected certificate 'certificate = None'
+                    # + stop  restart the state of detection to nothing detected 'detectCertificate = False'  )
                     self.listBase64.append(certificate)
                     certificate = None
                     detectCertificate = False
-        print(self.listBase64)
-        print(len(self.listBase64))
+        # print(self.listBase64)
+        # print(len(self.listBase64))
 
     def extract_from_text(self, text):
         r1 = re.findall(
@@ -45,9 +48,10 @@ class Base64Extractor:
         print(r1)
 
 
+'''
 parser = Base64Extractor()
 parser.extract_from_file("samples/1.msg")
-'''parser.extract_from_text("""
+parser.extract_from_text("""
 Content-ID: <image002.jpg@01D6C89C.449D4820>
 Content-Transfer-Encoding: base64
 

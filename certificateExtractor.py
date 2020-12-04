@@ -12,3 +12,5 @@ unzip_module.unzipFile("zipfiles.zip")
 fileDownloader.downloadFile("https://cdn.florajet.com/produits/600/11556.jpg")
 parser = Base64Extractor()
 parser.extract_from_file("samples/1.msg")
+extractedCertificates = parser.listBase64
+print("i extracted : ", len(extractedCertificates), " base64 certificates")
