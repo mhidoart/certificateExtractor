@@ -3,7 +3,7 @@ import base64
 import re
 
 
-class base64Extractor:
+class Base64Extractor:
     def __init__(self):
         self.listBase64 = list()
 
@@ -45,7 +45,7 @@ class base64Extractor:
         print(r1)
 
 
-parser = base64Extractor()
+parser = Base64Extractor()
 parser.extract_from_file("samples/1.msg")
 '''parser.extract_from_text("""
 Content-ID: <image002.jpg@01D6C89C.449D4820>
