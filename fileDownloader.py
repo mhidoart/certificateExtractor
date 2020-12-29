@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  1 16:37:15 2020
 
-@author: mehdi
+@author: Salaheddine
 """
 import urllib.request
 from urllib.parse import urlparse
