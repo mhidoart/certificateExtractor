@@ -199,5 +199,5 @@ copy_downloaded_certificates()
 copy_all_certificate_files()
 
 
-# (free up space) delete unziped files copied certificates
+# (free up space) delete unzipped files copied certificates
 clean_used_folders()
