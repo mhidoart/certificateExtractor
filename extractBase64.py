@@ -91,7 +91,7 @@ class Base64Extractor:
         return res
 
 
-# if you want to test this module execute the following
+# if you want to test this module, execute the following
 '''
 parser = Base64Extractor()
 parser.extract_from_file("samples/1.msg")
