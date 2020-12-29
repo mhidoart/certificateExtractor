@@ -32,7 +32,7 @@ the script also manages zip files in case the user gives a zip file as an input 
 all results are stored in /certificate 
 
 ## further more 
-after executing the script, in /certificates, you will find a folder names 'certificates + current date" and inside of it you will find
+after executing the script, in /certificates, you will find a folder named 'certificates + current date" and inside of it you will find
 different csv files those are base64 certificates extracted from .msg,.text.eml ...etc and each csv file has as a name a number indicating his order followed by the name of the source file (from which the script extracted the base64 certificates)
 
 you will also find one file named : 'All_Certificates.csv' this file contains all base64 certificates extracted from all input files
