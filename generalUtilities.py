@@ -70,18 +70,4 @@ class Utils:
                     absPath = os.path.abspath(os.path.join(dirpath, f))
                     matches.append(absPath)
         return matches
-
-
-# if u want to test this module use this
-'''
-cols =["nom","prenom","tel"]
-data = [["ASSABBANE","Mehdi","079032432"],["ASSABBANE","Mehdi","079032432"],["ASSABBANE","Mehdi","079032432"]]
-tools =Utils()
-tools.export_to_csv_file("persones",'',os.path.join("certificates", "hmida"),cols,data)
-'''
-
-# test file copy by extentions
-'''
-tools = Utils()
-tools.copy_files_to_folder('temp', 'hajum', '.zip', True)
-'''
+    
