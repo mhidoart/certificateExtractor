@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  1 12:53:50 2020
 
-@author: salaheddine
+@author: Salaheddine
 """
 
 import unzip_module
