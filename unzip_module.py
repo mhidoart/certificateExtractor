@@ -2,13 +2,13 @@
 """
 Created on Tue Dec  1 13:09:20 2020
 
-@author: mehdi
+@author: Salaheddine
 """
 import os
 import zipfile
 import csv
 import datetime
-# libraries needed for dealing up with .gz files
+# libraries needed to deal with .gz files
 import gzip
 import shutil
 import fnmatch
@@ -47,7 +47,7 @@ def unzipFile(file_name, file_path="zipfiles/", destination_path="unzipped/"):
     print("unzipping : " + file_name + "  in folder : " + destination_path)
     if(".zip" not in file_name):
         print("this module only extract zip and gz files")
-        # calling archieve operation sample
+        # calling archive operation sample
         archieveOperation(file_name, target, -1, "",
                           False, "is not a zip file")
     else:
