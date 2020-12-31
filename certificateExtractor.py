@@ -35,8 +35,7 @@ attachements_path = os.path.join(".", "attachements")
 unzipped_path = os.path.join(".", "unzipped")
 download_path = os.path.join(".", "downloads")
 zipfiles_path = os.path.join(".", "zipfiles")
-# the list that containsall extracted certificates
-extracted_certificates = []
+
 
 # class from the module Utils located in the file generalutilities
 tools = Utils()
@@ -71,22 +70,6 @@ def export_to_File(inputFileName, certificates):
             cp += 1
 
 
-def export_All_to_one_File(certificates):
-    if not os.path.exists(outputFolder):
-        os.makedirs(outputFolder)
-    cp = 0
-    outputFile = os.path.join(outputFolder, "All_Certificates.csv")
-    print(outputFile)
-    # open file mode append
-    with open(outputFile, "a", newline='') as f:
-        write = csv.writer(f, delimiter=",")
-        write.writerow(["certificate", "date"])
-        for item in certificates:
-            write.writerow(
-                [item, str(datetime.today().strftime('%Y-%m-%d-%H:%M:%S'))])
-            cp += 1
-
-
 def extract_and_export(input_path, extension):
     # start extracting + exporting certificates
     files = tools.fileList(input_path, extension)
@@ -95,20 +78,6 @@ def extract_and_export(input_path, extension):
     for item in files:
         # fileDownloader.extract_urls_and_download(item)
         fileDownloader.extract_urls_from_file(item)
-        # call old version parser that exctract base64 strings from emails and outs them in .csv later (do not reproduce attachements as files)
-        parser.extract_from_file(item)
-        try:
-            extractedCertificates = parser.listBase64
-            extracted_certificates.extend(extractedCertificates)
-            print("i extracted : ", len(extractedCertificates),
-                  " base64 certificates" + "from " + tools.path_leaf(item))
-            # export_to_File(str(tools.path_leaf(item)),extractedCertificates)
-            # this function replace the previous line since its more general could be used to exportanything to a csv
-            tools.export_to_csv_file(str(tools.path_leaf(item)), "_Certificates.csv", outputFolder, [
-                                     "certificates"], extractedCertificates)
-        except Exception as ex:
-            pass
-
         # new advanced parser that extract files from emails (zip,cer,crt...etc)
         parser.parse_email(item)
 
@@ -155,6 +124,9 @@ def clean_used_folders():
     tools.make_folder_empty(download_path)
 
 
+# create the folder which will hold the certificates:
+tools.create_folder(outputFolder)
+
 # deal with zipped files
 files = tools.fileList(targetPath, ".zip")
 extract_zip_attachements()
@@ -173,9 +145,6 @@ unzip_module.recurse_and_gunzip(files, unzipped_path)
 # extract sertificates from the unzipped files
 extract_and_export(os.path.join(".", "unzipped"), ".msg")
 
-
-# export all extracted certificates (base64) to one file
-export_All_to_one_File(extracted_certificates)
 
 # delete unzippedFiles
 tools.make_folder_empty(os.path.join(".", "unzipped"))
@@ -201,3 +170,4 @@ copy_all_certificate_files()
 
 # (free up space) delete unzipped files copied certificates
 clean_used_folders()
+print(" \n all extracted certificates are stored in => " + str(outputFolder))

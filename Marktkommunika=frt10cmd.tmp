@@ -1,0 +1,1956 @@
+<!DOCTYPE html>
+<html  lang="de-DE">
+<head id="Head">
+<!--*********************************************-->
+<!-- DNN Platform - http://www.dnnsoftware.com   -->
+<!-- Copyright (c) 2002-2018, by DNN Corporation -->
+<!--*********************************************-->
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<script type="application/javascript" src="https://app.usercentrics.eu/latest/main.js" id="CP37jlP3" ></script>
+<script type="application/javascript" src="https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js"></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KRTKVTD');</script>
+
+<!-- Matomo
+<script type="text/javascript" data-usercentrics="Matomo (self hosted)">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stat.50hertz.com/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '4']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript" data-usercentrics="Matomo (self hosted)">
+var _mtm = _mtm || [];
+_mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://stat.50hertz.com/js/container_OXkNP4mF.js'; s.parentNode.insertBefore(g,s);
+</script>
+<!--End Matomo Tag Manager --><title>
+	Partner der Gesellschaft
+</title><meta id="MetaDescription" name="DESCRIPTION" content="Hier finden Vertragspartner und Kunden alles zu Netzanschluss und Netzzugang, Bilanzkreismanagement, Abschaltbaren Lasten und  Netzreserve - und das Lieferantenportal von 50Hertz." /><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><link href="/DependencyHandler.axd/4e45c4ac850bbcd9b16bd3bb412d37fa/175/css" type="text/css" rel="stylesheet"/><script src="/DependencyHandler.axd/f6d86805f036c3ff35f2a1fa497205f8/175/js" type="text/javascript"></script><link rel='SHORTCUT ICON' href='/Portals/1/favicon.ico?ver=2018-10-16-170434-970' type='image/x-icon' /><style id="dnn_dnnHeaderImage_HeaderImageBanner_xs" type="text/css" media="(max-width: 519.98px)">#dnn_dnnHeaderImage_HeaderImageBanner { background-image: url('/Portals/1/Images/00%20Headerimages/Standard/vertragspartner_height.jpg?ver=2019-05-09-075425-817&height=210&width=520&mode=crop');}</style><style id="dnn_dnnHeaderImage_HeaderImageBanner_md" type="text/css" media="(max-width: 1024.98px) And (min-width: 520.00px)">#dnn_dnnHeaderImage_HeaderImageBanner { background-image: url('/Portals/1/Images/00%20Headerimages/Standard/vertragspartner_height.jpg?ver=2019-05-09-075425-817&width=1024&mode=crop');}</style><style id="dnn_dnnHeaderImage_HeaderImageBanner_lg_s1" type="text/css" media="(max-width: 1366.98px) And (min-width: 1025.00px)">#dnn_dnnHeaderImage_HeaderImageBanner { background-image: url('/Portals/1/Images/00%20Headerimages/Standard/vertragspartner_height.jpg?ver=2019-05-09-075425-817&width=1366&mode=crop');}</style><style id="dnn_dnnHeaderImage_HeaderImageBanner_lg_s2" type="text/css" media="(max-width: 1920.98px) And (min-width: 1367.00px)">#dnn_dnnHeaderImage_HeaderImageBanner { background-image: url('/Portals/1/Images/00%20Headerimages/Standard/vertragspartner_height.jpg?ver=2019-05-09-075425-817&width=1920&mode=crop');}</style><style id="dnn_dnnHeaderImage_HeaderImageBanner_lg" type="text/css" media="(max-width: 2560.98px) And (min-width: 1921.00px)">#dnn_dnnHeaderImage_HeaderImageBanner { background-image: url('/Portals/1/Images/00%20Headerimages/Standard/vertragspartner_height.jpg?ver=2019-05-09-075425-817&width=2560&mode=crop');}</style><style id="dnn_dnnHeaderImage_HeaderImageBanner_xl" type="text/css" media="(max-width: 2147483647.00px) And (min-width: 2561.00px)">#dnn_dnnHeaderImage_HeaderImageBanner { background-image: url('/Portals/1/Images/00%20Headerimages/Standard/vertragspartner_height.jpg?ver=2019-05-09-075425-817&width=3840&mode=crop');}</style><meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" /></head>
+<body id="Body">
+    
+    <form method="post" action="/de/Vertragspartner/Marktkommunika=" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="2e18Qee68ylFChSFetvIacywLd+B7A3Nx24dnzVbuGKFO2xJ6bL7kaH+dm4ZhGBGI70D8AylL34wqHxZj42ZyDn0txZZLHdCDRqnzw==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"de-DE","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-unendlich","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"+unendlich","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":".","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd, d. MMMM yyyy HH:mm:ss","LongDatePattern":"dddd, d. MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d. MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd.MM.yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["So","Mo","Di","Mi","Do","Fr","Sa"],"ShortestDayNames":["So","Mo","Di","Mi","Do","Fr","Sa"],"DayNames":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"AbbreviatedMonthNames":["Jan","Feb","Mrz","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez",""],"MonthNames":["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember",""],"IsReadOnly":false,"NativeCalendarName":"Gregorianischer Kalender","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mrz","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez",""],"MonthGenitiveNames":["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember",""]},"eras":[1,"n. Chr.",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=uHIkleVeDJcoRlJFCwuaQts-FYR67tQ3mnBeuRdmRXGt5cI2Q8YPoaogH3fBrvbttvHsnnDYEP-7q5I_yvPZ-DjOc45AngALaayyFqpw4I0r3Di9gaJ_qYhFkePjVggR9fGxJQ2&amp;t=ffffffffdfc97409" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA17ckPRuAiXbxgNPL1L-6mM_Nv2xPheIm2AOyRfepO-6Ki1Zrs5ZU72DjJvdeDPptQhUQBEWQic1n26NR09qCeYRY5M-7Ijln1YYmpbA9Iamrz4WbWlKonQOWcpHi2BVfsNFtKXM0&amp;t=ffffffffdfc97409" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="pfq69KirJ8NkXgsFUiOUEoJ0AHN+uMFyK1WgtcvYsiz7LiLwXQO3ZA/K1O4QuHLfkxeL0MZScBYolyMCDZxrYizZ3cwRbnkxYABh/q20SQTysgdibXKN/fH914AT0bj0jNa6SZJGC+u07qWP4TBqwcXnMxc=" />
+</div><script src="/DependencyHandler.axd/2c19a3f6af75c340e33a68506aef41b2/175/js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+<!--CDF(Css|/Portals/_default/skins/50hertz/fonts/Skolar_Sans_Web/style.css|DnnPageHeaderProvider|116)-->
+<!--CDF(Css|/Portals/_default/skins/50hertz/fonts/50hertz_iconfont/style.css|DnnPageHeaderProvider|116)-->
+<!--CDF(Css|/Portals/_default/skins/50hertz/styles/style.css|DnnPageHeaderProvider|120)-->
+<!--CDF(Css|/Portals/_default/skins/50hertz/styles/quick-links-icons.css|DnnPageHeaderProvider|122)-->
+
+<!--CDF(Javascript|/Portals/_default/skins/50hertz/scripts/polyfills.min.js|DnnBodyProvider|50)-->
+<!--CDF(Javascript|/Portals/_default/skins/50hertz/scripts/baguetteBox.min.js|DnnBodyProvider|50)-->
+<!--CDF(Javascript|/Portals/_default/skins/50hertz/scripts/bundle.min.js|DnnBodyProvider|51)-->
+
+
+
+<div id="page" class="main-layout menu-level-1">
+
+    <div id="header-wrapper">
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-18 col-lg-6 col-xl-4">
+                    <div class="logo"><a id="dnn_dnnLOGO_hypLogo" title="50hertz.com" href="https://www.50hertz.com/de/"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/1/50hertz-logo-group.png?ver=2019-09-26-142345-067" alt="50hertz.com" /></a></div>
+                </div>
+                <div class="burger-menu col-6 d-lg-none">
+                    <div class="burger-menu__icon">
+                        <div id="line-a" class="burger-menu__icon-line"></div>
+                        <div id="line-b" class="burger-menu__icon-line"></div>
+                        <div id="line-c" class="burger-menu__icon-line"></div>
+                        <div id="line-d" class="burger-menu__icon-line"></div>
+                    </div>
+                </div>
+                <div class="menubar-container">
+                    <nav class="menubar col-24 d-lg-block">
+                        <div class="row">
+                            <div class="col-24 d-lg-none order-first">
+                                <div class="mobile-menu-header row">
+                                    <div class="mobile-menu-header__logo col-xs-6 d-sm-none">
+                                        <a id="dnn_dnnLOGO2_hypLogo" title="50hertz.com" href="https://www.50hertz.com/de/"><img id="dnn_dnnLOGO2_imgLogo" src="/Portals/1/50hertz-logo-group.png?ver=2019-09-26-142345-067" alt="50hertz.com" /></a>
+                                    </div>
+                                    <div class="burger-menu col-6 d-lg-none">
+                                        <div class="burger-menu__icon">
+                                            <div id="line-a" class="burger-menu__icon-line"></div>
+                                            <div id="line-b" class="burger-menu__icon-line"></div>
+                                            <div id="line-c" class="burger-menu__icon-line"></div>
+                                            <div id="line-d" class="burger-menu__icon-line"></div>
+                                        </div>
+                                    </div>                
+                                </div>
+                            </div>
+                            <div class="col-24 col-lg-2 search-language-area order-0 order-lg-1">
+                                <div class="search-area">
+                                    <i class="icon-search search-area__open-search-icon">
+                                    </i>
+                                    <div class="search-area__input-container dnnRight d-none">
+                                        <span id="dnn_dnnSearchMobile_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="Weitere Ergebnisse anzeigen" data-noresult="keine Ergebnisse gefunden">
+        <input name="dnn$dnnSearchMobile$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSearchMobile_txtSearch" class="NormalTextBox" aria-label="Search" autocomplete="off" placeholder="suchen..." />
+        <a class="dnnSearchBoxClearText" title="Suchtext entfernen"></a>
+    </span>
+    <a id="dnn_dnnSearchMobile_cmdSearch" class="search-area__search-submit-icon" href="javascript:__doPostBack(&#39;dnn$dnnSearchMobile$cmdSearch&#39;,&#39;&#39;)"><img src="/Portals/_default/skins/50hertz/Images/lupe-orange.svg" border="0" alt="Suchen-Icon"></a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 2,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'de-DE',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_dnnSearchMobile_SiteRadioButton');
+            var webBtn = $('#dnn_dnnSearchMobile_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+
+                                        <img class="search-area__close-icon d-lg-none" src="/Portals/_default/skins/50hertz/Images/search-close.svg" alt="" height="25px"/>
+                                    </div>
+                                </div>
+                                <div class="language-selection d-lg-block">
+                                    <ul class="language-selection__list">
+                                        
+                                                <li class="language-selection__item">
+                                                    <a class="language-selection__link language-selection__link--active" href="https://www.50hertz.com/de/Vertragspartner/Marktkommunika/%20" ><span>DE</span></a>
+                                                </li>
+                                            
+                                                <li class="language-selection__item">
+                                                    <a class="language-selection__link " href="https://www.50hertz.com/en/Partners/Marktkommunika/%20" ><span>EN</span></a>
+                                                </li>
+                                            
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-24 col-lg-auto col-xl-auto offset-lg-6 offset-xl-11 order-last order-lg-first meta-menu-container">
+                                
+
+
+
+
+        <ul class="main-navigation meta-menu">
+                <li  class="nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Medien">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Medien</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li >
+                        <a href="https://www.50hertz.com/de/Medien">
+                            <span>
+                                Pressemitteilungen
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Medien/Ansprechpartner">
+                            <span>
+                                Ansprechpartner
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Medien/Mediathek">
+                            <span>
+                                Mediathek
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+                <li  class="nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Karriere">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Karriere</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li >
+                        <a href="https://www.50hertz.com/de/Karriere#Stellen">
+                            <span>
+                                Stellenangebote
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Karriere/Ueber50Hertz">
+                            <span>
+                                Über <span class="text-normal-case">50Hertz</span>
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Karriere/Bewerbungsprozess">
+                            <span>
+                                Bewerbungsprozess
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Karriere/Job-Abo">
+                            <span>
+                                Job-Abo
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Investoren">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span ">Investoren</span>
+                            </div>
+                        </a>
+
+
+                </li>
+                <li  class="active nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Vertragspartner">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Vertragspartner</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden">
+                            <span>
+                                Netzkunden
+                            </span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden/Netzanschluss">
+                            <span>
+                                Netzanschluss
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden/Netzzugang">
+                            <span>
+                                Netzzugang
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Bilanzkreiskunden">
+                            <span>
+                                Bilanzkreiskunden
+                            </span>
+                        </a>
+
+
+                </li>
+                <li  class="nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation">
+                            <span>
+                                Marktkommunikation
+                            </span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Bilanzkreiskoordinator">
+                            <span>
+                                Bilanzkreiskoordinator
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Uebertragungsnetzbetreiber">
+                            <span>
+                                Übertragungsnetzbetreiber
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Netzbetreiber">
+                            <span>
+                                Netzbetreiber
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Messstellenbetreiber">
+                            <span>
+                                Messstellenbetreiber
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/BilanzkreisverantwortlicherLieferant">
+                            <span>
+                                Bilanzkreisverantwortlicher / Lieferant
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+                <li  class="nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen">
+                            <span>
+                                Systemdienstleistungen
+                            </span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/AbschaltbareLasten">
+                            <span>
+                                Abschaltbare Lasten
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/NutzenstattAbregeln">
+                            <span>
+                                Nutzen statt Abregeln
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/Netzreserve">
+                            <span>
+                                Netzreserve
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/Spannungshaltung">
+                            <span>
+                                Spannungshaltung
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+                <li  class="nav-dropdown-menu">
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten">
+                            <span>
+                                Lieferanten
+                            </span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/Lieferantenportal">
+                            <span>
+                                Lieferantenportal
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/FAQLieferantenportal">
+                            <span>
+                                FAQ Lieferantenportal
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/Downloads">
+                            <span>
+                                Downloads
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/Instandhaltungs-Portal">
+                            <span>
+                                Instandhaltungs-Portal
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/EEG-Anmeldung">
+                            <span>
+                                EEG-Anmeldung
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Mustervertraege">
+                            <span>
+                                Musterverträge
+                            </span>
+                        </a>
+
+
+                </li>
+                <li >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Standorte">
+                            <span>
+                                Leitungsauskunft und Schachtscheine
+                            </span>
+                        </a>
+
+
+                </li>
+        </ul>
+
+                </li>
+        </ul>
+
+                            </div>
+                            <div class="col-24 col-lg-16 col-xl-14 offset-lg-8 offset-xl-10 order-1 order-lg-last position-static main-menu-container">
+                                
+
+
+
+        <ul class="main-navigation main-menu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Unternehmen">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Unternehmen</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Struktur">
+                            <span>Struktur</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Struktur/Geschaeftsfuehrung">
+                            <span>Geschäftsführung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Struktur/Aufsichtsrat">
+                            <span>Aufsichtsrat</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Strategie">
+                            <span>Strategie</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Strategie/Zukunfterneuerbar">
+                            <span>Zukunft. erneuerbar.</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Strategie/Zukunftwirtschaftlich">
+                            <span>Zukunft. wirtschaftlich.</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Strategie/Zukunftdigital">
+                            <span>Zukunft. digital.</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Strategie/Zukunftdurchdacht">
+                            <span>Zukunft. durchdacht.</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Aufgaben">
+                            <span>Aufgaben</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Standorte">
+                            <span>Standorte</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Nachhaltigkeit">
+                            <span>Nachhaltigkeit</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://csr.50hertz.com/de/">
+                            <span>CSR Portal</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Nachhaltigkeit/Arbeitssicherheit">
+                            <span>Arbeitssicherheit</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Nachhaltigkeit/Engagement">
+                            <span>Engagement</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Nachhaltigkeit/Governance">
+                            <span>Governance</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://innovation.eliagroup.eu/" target="_blank">
+                            <span>Innovation</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Partnerschaften">
+                            <span>Partnerschaften</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Historie">
+                            <span>Historie</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Netz</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung">
+                            <span>Netzentwicklung</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand">
+                            <span>Projekte an Land</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/SuedOstLink">
+                            <span>SuedOstLink</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/SuedOstLink/AbschnittA1">
+                            <span>AbschnittA1</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/SuedOstLink/AbschnittA2">
+                            <span>AbschnittA2</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/SuedOstLink/AbschnittB">
+                            <span>AbschnittB</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/SuedOstLink/Konverter">
+                            <span>Konverter</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzanbindungSuedharz">
+                            <span>Netzanbindung Südharz</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzanbindungSuedharz/Umspannwerke">
+                            <span>Umspannwerke</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzanbindungSuedharz/InformationenzurBundesfachplanung">
+                            <span>Informationen zur Bundesfachplanung</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-KabeldiagonaleBerlin">
+                            <span>380-kV-Kabeldiagonale Berlin</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-FreileitungPulgarVieselbach">
+                            <span>380-kV-Freileitung Pulgar – Vieselbach</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzverstaerkungMecklarVieselbach">
+                            <span>Netzverstärkung Mecklar – Vieselbach</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzverstaerkungHelmstedtWolmirstedt">
+                            <span>Netzverstärkung Helmstedt – Wolmirstedt</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzverstaerkungRoehrsdorfWeidaRemptendorf">
+                            <span>Netzverstärkung Röhrsdorf – Weida – Remptendorf</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-FreileitungBertikowPasewalk">
+                            <span>380-kV-Freileitung Bertikow – Pasewalk</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-FreileitungGuestrowParchimSuedPerleberg">
+                            <span>380-kV-Freileitung Güstrow – Parchim Süd – Perleberg</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-FreileitungGuestrowParchimSuedPerleberg/380-kV-ErsatzneubauGuestrowParchimSued">
+                            <span>380-kV-Ersatzneubau Güstrow – Parchim Süd</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-FreileitungPerlebergWolmirstedt">
+                            <span>380-kV-Freileitung Perleberg – Wolmirstedt</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/380-kV-NordringBerlin">
+                            <span>380-kV-Nordring Berlin</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/VerlegungTeilabschnitt380-kV-FreileitungPreilackStreumen">
+                            <span>Verlegung Teilabschnitt 380-kV-Freileitung Preilack – Streumen</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/Uckermarkleitung">
+                            <span>Uckermarkleitung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/UmspannwerkBeetzseeNord">
+                            <span>Umspannwerk Beetzsee Nord</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/UmspannwerkHamburgOst">
+                            <span>Umspannwerk Hamburg Ost</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/NetzanschlussJessenNord">
+                            <span>Netzanschluss Jessen/Nord</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/DritterInterkonnektor">
+                            <span>Dritter Interkonnektor</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteanLand/Suedwest-Kuppelleitung">
+                            <span>Südwest-Kuppelleitung</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteaufSee">
+                            <span>Projekte auf See</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteaufSee/CombinedGridSolutionKriegersFlakCGS">
+                            <span>Combined Grid Solution – Kriegers Flak (CGS)</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteaufSee/HansaPowerBridge">
+                            <span>Hansa PowerBridge</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteaufSee/400-kV-NetzverbindungKONTEK">
+                            <span>400-kV-Netzverbindung KONTEK</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteaufSee/Ostwind2">
+                            <span>Ostwind 2</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/ProjekteaufSee/Ostwind1">
+                            <span>Ostwind 1</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/InterkonnektorenundPhasenschieber">
+                            <span>Interkonnektoren und Phasenschieber</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/RealisierteProjekteseit2012">
+                            <span>Realisierte Projekte seit 2012</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/RealisierteProjekteseit2012/380-kV-LeitungBaerwaldeSchmoelln">
+                            <span>380-kV-Leitung Bärwalde – Schmölln</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/RealisierteProjekteseit2012/380-kV-NetzanschlussUmspannwerkFoerderstedt">
+                            <span>380-kV-Netzanschluss Umspannwerk Förderstedt</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/RealisierteProjekteseit2012/Baltic1">
+                            <span>Baltic 1</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/RealisierteProjekteseit2012/Baltic2">
+                            <span>Baltic 2</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/RealisierteProjekteseit2012/Windsammelschiene">
+                            <span>Windsammelschiene</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/WofuerNetzausbau">
+                            <span>Wofür Netzausbau?</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/WofuerNetzausbau/HaeufiggestellteFragen">
+                            <span>Häufig gestellte Fragen</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/WofuerNetzausbau/50HertzEnergiewendeOutlook2035">
+                            <span><span class="text-normal-case">50Hertz</span> Energiewende Outlook 2035</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/LeitlinienderPlanung">
+                            <span>Leitlinien der Planung</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/LeitlinienderPlanung/SchutzvonMenschundNatur">
+                            <span>Schutz von Mensch und Natur</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/LeitlinienderPlanung/Vogelschutz">
+                            <span>Vogelschutz</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/LeitlinienderPlanung/FreileitungundKabel">
+                            <span>Freileitung und Kabel</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/LeitlinienderPlanung/Wirtschaftlichkeit">
+                            <span>Wirtschaftlichkeit</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/LeitlinienderPlanung/NetzplanungsgrundsaetzedervierdeutschenUebertragungsnetzbetreiber">
+                            <span>Netzplanungsgrundsätze der vier deutschen Übertragungsnetzbetreiber</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/Genehmigungsverfahren">
+                            <span>Genehmigungsverfahren</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/Genehmigungsverfahren/NetzentwicklungsplanNEPundBundesbedarfsplan">
+                            <span>Netzentwicklungsplan (NEP) und Bundesbedarfsplan</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/Genehmigungsverfahren/PlanungundGenehmigung">
+                            <span>Planung und Genehmigung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/Genehmigungsverfahren/TransparenzundBuergerbeteiligung">
+                            <span>Transparenz und Bürgerbeteiligung</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/AusgleichszahlungenanKommunen">
+                            <span>Ausgleichszahlungen an Kommunen</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/VorhabenvongemeinsamemInteressePCI">
+                            <span>Vorhaben von gemeinsamem Interesse (PCI)</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/BESTGRID">
+                            <span>BESTGRID</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/BESTGRID/50Hertz-Pilotprojekt">
+                            <span><span class="text-normal-case">50Hertz</span>-Pilotprojekt</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/BESTGRID/Publikationen">
+                            <span>Publikationen</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzentwicklung/compactLine">
+                            <span>compactLine</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Netzbetrieb">
+                            <span>Netzbetrieb</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Netz/Systemfuehrung">
+                            <span>Systemführung</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Systemfuehrung/Netzfuehrung">
+                            <span>Netzführung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Systemfuehrung/Systembilanzierung">
+                            <span>Systembilanzierung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Systemfuehrung/Netzverfuegbarkeit">
+                            <span>Netzverfügbarkeit</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz/Systemfuehrung/Redispatch">
+                            <span>Redispatch</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Netz#Strukturmerkmale">
+                            <span>Strukturmerkmale</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Unternehmen/Standorte">
+                            <span>Leitungsauskunft und Schachtscheine</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden/Netzanschluss">
+                            <span>Netzanschluss</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Markt">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Markt</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Markt/EU-Strombinnenmarkt">
+                            <span>EU-Strombinnenmarkt</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Markt/NetznutzungundEngpassmanagement">
+                            <span>Netznutzung und Engpassmanagement</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Markt/NetznutzungundEngpassmanagement/NutzungderInterkonnektoren">
+                            <span>Nutzung der Interkonnektoren</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden">
+                            <span>Nutzung <span class="text-normal-case">50Hertz</span>-Netz</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Markt/NetznutzungundEngpassmanagement/Engpassmanagementinternational">
+                            <span>Engpassmanagement international</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement">
+                            <span>Engpassmanagement national</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Markt/Regelenergie">
+                            <span>Regelenergie</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Markt/Bilanzkreisprozesse">
+                            <span>Bilanzkreisprozesse</span>
+                        </a>
+
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Markt/EEGKWK-G">
+                            <span>EEG/KWK-G</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Markt/EEGKWK-G/Sektorkopplung">
+                            <span>Sektorkopplung</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz">
+                            <div>
+                                <div class="animated-container"></div>
+                                <span class="node-text-span node-text-span--with-arrow">Transparenz</span>
+                            </div>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen">
+                            <span>Kennzahlen</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Erzeugung">
+                            <span>Erzeugung</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Erzeugung/Netzeinspeisung">
+                            <span>Netzeinspeisung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Erzeugung/Windenergie">
+                            <span>Windenergie</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Erzeugung/Photovoltaik">
+                            <span>Photovoltaik</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/VeroeffentlichungenzumEEG">
+                            <span>Veröffentlichungen zum EEG</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/VeroeffentlichungenzumEEG/Jahresabrechnung">
+                            <span>Jahresabrechnung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/VeroeffentlichungenzumEEG/EEG-Bilanzkreis">
+                            <span>EEG-Bilanzkreis</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten">
+                            <span>Netzdaten</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/Gesamtlast">
+                            <span>Gesamtlast</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/VertikaleNetzlast">
+                            <span>Vertikale Netzlast</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/Hochlastzeitfenster">
+                            <span>Hochlastzeitfenster</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/EntnommeneJahresarbeit">
+                            <span>Entnommene Jahresarbeit</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/Netzbelastung">
+                            <span>Netzbelastung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/StatischesNetzmodell">
+                            <span>Statisches Netzmodell</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Netzdaten/Netzverluste">
+                            <span>Netzverluste</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement">
+                            <span>Engpassmanagement</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/Ma&#223;nahmennach13Abs1EnWG">
+                            <span>Maßnahmen nach § 13 Abs. 1 EnWG</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/Ma&#223;nahmennach13Abs2EnWG">
+                            <span>Maßnahmen nach § 13 Abs. 2 EnWG</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/HandelsgeschaeftezumAusgleichdesRedispatch-Bilanzkreises">
+                            <span>Handelsgeschäfte zum Ausgleich des Redispatch-Bilanzkreises</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/ArchivMa&#223;nahmennach13EnWG">
+                            <span>Archiv Maßnahmen nach § 13 EnWG</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/Revisionsplanung">
+                            <span>Revisionsplanung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/Ausfaelle">
+                            <span>Ausfälle</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/Redispatch-RechnerSWKL">
+                            <span>Redispatch-Rechner SWKL</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Engpassmanagement/Countertrading">
+                            <span>Countertrading</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+                <li  class="nav-dropdown-menu" >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie">
+                            <span>Regelenergie</span>
+                        </a>
+
+                        <div class="nav-dropdown-menu__item">
+                            <span class="nav-dropdown-menu__arrow d-lg-none">
+                                <i class="icon-arrow-down"> </i>
+                            </span>
+                        </div>
+        <ul class="nav-dropdown-menu__submenu">
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie/RegelleistungLeistungsvorhaltung">
+                            <span>Regelleistung (Leistungsvorhaltung)</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie/RegelarbeiteingesetzteRegelleistung">
+                            <span>Regelarbeit (eingesetzte Regelleistung)</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie/ArchivRegelleistung">
+                            <span>Archiv Regelleistung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie/ArchivRegelarbeit">
+                            <span>Archiv Regelarbeit</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie/ArchivBilanzkreisabrechnung">
+                            <span>Archiv Bilanzkreisabrechnung</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Kennzahlen/Regelenergie/ArchivNetzverluste">
+                            <span>Archiv Netzverluste</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+        </ul>      
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/Positionen">
+                            <span>Positionen</span>
+                        </a>
+
+                </li>
+                <li  >
+                        <a href="https://www.50hertz.com/de/Transparenz/50Hertz-App">
+                            <span><span class="text-normal-case">50Hertz</span>-App</span>
+                        </a>
+
+                </li>
+        </ul>      
+                </li>
+        </ul>      
+
+
+                            </div>
+                            
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        
+    </header>
+</div>
+
+
+
+    <main>
+        <div id="dnn_dnnHeaderImage_HeaderImageBanner" class="banner">
+            <div class="main-layout__impulse">
+                <div class="main-layout__impulse_left"></div>
+                <div class="main-layout__impulse_right"></div>
+            </div>
+        </div>
+        <div class="sidebar-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-auto sidebar d-none d-lg-block">
+                        
+
+
+
+
+
+        <div class="side-menu-container row side-menu-container--isCollapsed">
+            <div class="side-menu">
+    <ul class="col-24">
+            <li  class="side-menu-dropdown">
+                <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden"> 
+                    <span>Netzkunden</span>
+                </a>
+    <ul class="">
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden/Netzanschluss"> 
+                    <span>Netzanschluss</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Netzkunden/Netzzugang"> 
+                    <span>Netzzugang</span>
+                </a>
+            </li>
+    </ul>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Bilanzkreiskunden"> 
+                    <span>Bilanzkreiskunden</span>
+                </a>
+            </li>
+            <li  class="side-menu-dropdown">
+                <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation"> 
+                    <span>Marktkommunikation</span>
+                </a>
+    <ul class="">
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Bilanzkreiskoordinator"> 
+                    <span>Bilanzkreiskoordinator</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Uebertragungsnetzbetreiber"> 
+                    <span>Übertragungsnetzbetreiber</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Netzbetreiber"> 
+                    <span>Netzbetreiber</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/Messstellenbetreiber"> 
+                    <span>Messstellenbetreiber</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Marktkommunikation/BilanzkreisverantwortlicherLieferant"> 
+                    <span>Bilanzkreisverantwortlicher / Lieferant</span>
+                </a>
+            </li>
+    </ul>
+            </li>
+            <li  class="side-menu-dropdown">
+                <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen"> 
+                    <span>Systemdienstleistungen</span>
+                </a>
+    <ul class="">
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/AbschaltbareLasten"> 
+                    <span>Abschaltbare Lasten</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/NutzenstattAbregeln"> 
+                    <span>Nutzen statt Abregeln</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/Netzreserve"> 
+                    <span>Netzreserve</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Systemdienstleistungen/Spannungshaltung"> 
+                    <span>Spannungshaltung</span>
+                </a>
+            </li>
+    </ul>
+            </li>
+            <li  class="side-menu-dropdown">
+                <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten"> 
+                    <span>Lieferanten</span>
+                </a>
+    <ul class="">
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/Lieferantenportal"> 
+                    <span>Lieferantenportal</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/FAQLieferantenportal"> 
+                    <span>FAQ Lieferantenportal</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/Downloads"> 
+                    <span>Downloads</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Lieferanten/Instandhaltungs-Portal"> 
+                    <span>Instandhaltungs-Portal</span>
+                </a>
+            </li>
+    </ul>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/EEG-Anmeldung"> 
+                    <span>EEG-Anmeldung</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Vertragspartner/Mustervertraege"> 
+                    <span>Musterverträge</span>
+                </a>
+            </li>
+            <li >
+                <a href="https://www.50hertz.com/de/Unternehmen/Standorte"> 
+                    <span>Leitungsauskunft und Schachtscheine</span>
+                </a>
+            </li>
+    </ul>
+                <div class='side-menu__btn col-24 d-none side-menu__btn--isCollapsed'>
+                    <div>Alles zeigen</div>
+                </div>
+            </div>
+        </div>  
+
+
+                        <svg class="sidebar__impulse" viewBox="0 0 296 326">
+                            <use xlink:href="/Portals/_default/skins/50hertz/Images/side-menu-impulse.svg# side-menu-impulse"></use>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="d-none d-md-block col-20 offset-lg-8 col-lg-16 breadcrumb-list">
+                    <span id="dnn_dnnBreadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.50hertz.com/de/" class="breadcrumb-list__item" itemprop="item" ><span itemprop="name">Start</span></a><meta itemprop="position" content="1" /></span>/<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.50hertz.com/de/Vertragspartner" class="breadcrumb-list__item" itemprop="item"><span itemprop="name">Vertragspartner</span></a><meta itemprop="position" content="2" /></span></span></span>
+                </div>
+                <div class="col-24 col-md-20 col-lg-16 offset-md-4 offset-lg-8">
+                    <h1>
+                        Partner der Gesellschaft
+                    </h1>
+                </div>
+                <div id="dnn_ContentPane" class="col-24">
+                    
+                <div class="DnnModule DnnModule-LotesFrequentContent DnnModule-618"><a name="618"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr618_ContentPane"><!-- Start_Module_618 --><div id="dnn_ctr618_ModuleContent" class="DNNModuleContent ModLotesFrequentContentC">
+	
+    
+    <script type="text/javascript">
+        (function ($, glossaryTooltip) {
+            $(document).ready(function() {
+                glossaryTooltip.initialize();
+            });
+        })(window.jQuery, lotes.glossaryTooltip);
+    </script>
+
+    <div class="row fhz-px-default">
+    <div class="l-fc-tpl-text col-24 col-md-20 col-lg-16 col-xl-10 mx-auto" data-fc-editor="text">
+        <p>Als Unternehmen stehen wir mit unterschiedlichen Partnern in Vertragsverhältnissen – vom regionalen Handwerker über <span class="glossary-entry-link" data-glossary-entry-id="98" tabindex="0">Verteilnetzbetreiber</span>, Kraftwerksbetreiber und Stromhändler bis hin zur internationalen Firmengruppe. Egal, an welchen Themen wir gemeinsam arbeiten: Wir sind für Sie ein zuverlässiger Partner – kooperativ, transparent und stets am Grundsatz der Gleichbehandlung orientiert. Sie sind Bilanzkreisverantwortlicher oder wollen unser Lieferant werden? Hier stehen Ihnen sämtliche Informationen zur Verfügung:</p>
+    </div>
+</div>
+
+
+</div><!-- End_Module_618 --></div>
+	<div class="clear"></div>
+</div>
+
+</div><div class="DnnModule DnnModule-LotesFrequentTeaser DnnModule-6500"><a name="6500"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr6500_ContentPane"><!-- Start_Module_6500 --><div id="dnn_ctr6500_ModuleContent" class="DNNModuleContent ModLotesFrequentTeaserC">
+	
+    
+    <script type="text/javascript">
+        (function ($, glossaryTooltip) {
+            $(document).ready(function () {
+                glossaryTooltip.initialize();
+            });
+        })(window.jQuery, lotes.glossaryTooltip);
+    </script>
+    
+    <div class="l-fc-tpl-teaser row fhz-px-default">
+    <div class="col-24 col-md-10 col-lg-8 col-xl-5 offset-md-2 offset-lg-4 offset-xl-7">
+        <a href="/Vertragspartner/EEG-Anmeldung" data-fc-editor="image">
+            <img src="/Portals/1/Images/03%20Logos%20und%20Icons/Teaser_EEG-Anmeldung2x.jpg?ver=2018-09-24-150505-613&width=610&mode=crop" alt="" class="fr-fic fr-dii" style="">
+        </a>
+    </div>
+    <div class="col-24 col-md-10 col-lg-8 col-xl-5">
+        <div class="l-fc-tpl-teaser__text" data-fc-editor="teasertext">
+            <h4>EEG-Anmeldung</h4><p>Sie wollen sich zur Abwicklung der EEG-Umlage bei uns registrieren? Alle Informationen stehen Ihnen hier zur Verfügung.</p>
+        </div>
+        <ul class="l-fc-tpl-teaser__links">
+            <li data-fc-editor="teaserlink"><a class="internal-link" href="/Vertragspartner/EEG-Anmeldung">WEITERE INFORMATIONEN</a></li>
+            
+        </ul>
+    </div>
+</div>
+
+
+</div><!-- End_Module_6500 --></div>
+	<div class="clear"></div>
+</div>
+
+</div><div class="DnnModule DnnModule-LotesFrequentTeaser DnnModule-6501"><a name="6501"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr6501_ContentPane"><!-- Start_Module_6501 --><div id="dnn_ctr6501_ModuleContent" class="DNNModuleContent ModLotesFrequentTeaserC">
+	
+    
+    <script type="text/javascript">
+        (function ($, glossaryTooltip) {
+            $(document).ready(function () {
+                glossaryTooltip.initialize();
+            });
+        })(window.jQuery, lotes.glossaryTooltip);
+    </script>
+    
+    <div class="l-fc-tpl-teaser row fhz-px-default">
+    <div class="col-24 col-md-10 col-lg-8 col-xl-5 offset-md-2 offset-lg-4 offset-xl-7">
+        <a href="/Vertragspartner/Lieferanten" data-fc-editor="image">
+            <img src="/Portals/1/Images/03%20Logos%20und%20Icons/Teaser_Lieferanten2x.jpg?ver=2018-09-24-150505-640&width=610&mode=crop" alt="" class="fr-fic fr-dii" style="">
+        </a>
+    </div>
+    <div class="col-24 col-md-10 col-lg-8 col-xl-5">
+        <div class="l-fc-tpl-teaser__text" data-fc-editor="teasertext">
+            <h4>Lieferanten und Dienstleister</h4><p>Egal, ob Lieferung von Transformatoren oder Rasen mähen in unseren Anlagen – viele hundert Lieferanten und Dienstleister sind tagtäglich für uns im Einsatz. Zugang zu unserem Lieferantenportal und alle wichtigen Informationen rund um unseren Einkauf erhalten Sie auf diesen Seiten.</p>
+        </div>
+        <ul class="l-fc-tpl-teaser__links">
+            <li data-fc-editor="teaserlink"><a class="internal-link" href="/Vertragspartner/Lieferanten">WEITERE INFORMATIONEN</a></li>
+            
+        </ul>
+    </div>
+</div>
+
+
+</div><!-- End_Module_6501 --></div>
+	<div class="clear"></div>
+</div>
+
+</div><div class="DnnModule DnnModule-LotesFrequentTeaser DnnModule-6530"><a name="6530"></a>
+<div class="DNNContainer_noTitle">
+	<div id="dnn_ctr6530_ContentPane"><!-- Start_Module_6530 --><div id="dnn_ctr6530_ModuleContent" class="DNNModuleContent ModLotesFrequentTeaserC">
+	
+    
+    <script type="text/javascript">
+        (function ($, glossaryTooltip) {
+            $(document).ready(function () {
+                glossaryTooltip.initialize();
+            });
+        })(window.jQuery, lotes.glossaryTooltip);
+    </script>
+    
+    <div class="l-fc-tpl-teaser row fhz-px-default">
+    <div class="col-24 col-md-10 col-lg-8 col-xl-5 offset-md-2 offset-lg-4 offset-xl-7">
+        <a href="/Portals/1/Dokumente/Vertragspartner/50Hertz-FL-Kundenflyer-DINlang-K06.pdf?ver=2018-11-06-131137-163" data-fc-editor="image">
+            <img src="/Portals/1/Images/VERTRAGSPARTNER/Kundenflyer_thumbnail.PNG?ver=2018-11-01-095015-113&width=610&mode=crop" alt="" class="fr-fic fr-dii" style="">
+        </a>
+    </div>
+    <div class="col-24 col-md-10 col-lg-8 col-xl-5">
+        <div class="l-fc-tpl-teaser__text" data-fc-editor="teasertext">
+            <h4>Kundenbroschüre</h4><p>Die richtige Kontaktperson bei 50Hertz finden Sie in der Kundenbroschüre, die Sie hier herunterladen können.</p>
+        </div>
+        <ul class="l-fc-tpl-teaser__links">
+            <li data-fc-editor="teaserlink"><a class="document-link" href="/Portals/1/Dokumente/Vertragspartner/50Hertz-FL-Kundenflyer-DINlang-K06.pdf?ver=2018-11-06-131137-163" rel="noopener noreferrer" target="_blank">Kundenkontakt bei 50Hertz</a> (Download als PDF, 472 KB)</li>
+            
+        </ul>
+    </div>
+</div>
+
+
+</div><!-- End_Module_6530 --></div>
+	<div class="clear"></div>
+</div>
+
+</div></div>
+            </div>
+        </div>
+    </main>
+    
+    
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-24 mx-auto">
+                
+
+
+        <ul class="footer-menu">
+                <li  >
+                    <a href="https://www.50hertz.com/de/Kontakt">Kontakt</a>
+                </li>
+                <li  >
+                    <a href="https://www.50hertz.com/de/Impressum">Impressum</a>
+                </li>
+                <li  >
+                    <a href="https://www.50hertz.com/de/Datenschutz">Datenschutz</a>
+                </li>
+                <li  >
+                    <a href="http://newsletter.50hertz.3pc-web.de/newsletter.php" target="_blank">Newsletter</a>
+                </li>
+                <li  >
+                    <a href="https://www.50hertz.com/de/Sitemap">Sitemap</a>
+                </li>
+        </ul>
+
+
+                <ul class="social-network">
+                    <li class="social-network__item social-network__item--twitter">
+                        <a class="social-network__link" title="Twitter" href="https://www.50hertz.com/de/SocialMediaInfo" target="_blank"></a>
+                    </li>
+                    <li class="social-network__item social-network__item--xing">
+                        <a class="social-network__link" title="Xing" href="https://www.50hertz.com/de/SocialMediaInfo" target="_blank"></a>
+                    </li>
+                    <li class="social-network__item social-network__item--linkedin">
+                        <a class="social-network__link" title="LinkedIn" href="https://www.50hertz.com/de/SocialMediaInfo" target="_blank"></a>
+                    </li>
+                    <li class="social-network__item social-network__item--youtube">
+                        <a class="social-network__link" title="YouTube" href="https://www.50hertz.com/de/SocialMediaInfo" target="_blank"></a>
+                    </li>
+                    <li class="social-network__item social-network__item--share">
+                        <div class="social-network__link"></div>
+                        <div class="share-icons-set">
+                            <a class="share-icons-set__icon share-mail" data-social="email" href="#">
+                                <img src="/Portals/_default/skins/50hertz/Images/share-email.svg" alt="per E-Mail teilen" />
+                            </a>
+                            <a class="share-icons-set__icon share" data-social="facebook" href="#">
+                                <img src="/Portals/_default/skins/50hertz/Images/share-facebook.svg" alt="auf Facebook teilen"/>
+                            </a>
+                            <a class="share-icons-set__icon share" data-social="twitter" href="#">
+                                <img src="/Portals/_default/skins/50hertz/Images/share-twitter.svg" alt="auf Twitter teilen"/>
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="additional-menu">
+        <a id="dnn_userLogin_loginLink" title="anmelden" class="SkinObject" rel="nofollow" onclick="this.disabled=true;" href="https://www.50hertz.com/de/Login?returnurl=%2fde%2fVertragspartner%2fMarktkommunika%3d">anmelden</a>
+
+    </div>
+</footer>
+
+</div>
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/de/`,`sf_tabId`:`53`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="FhD67AiYkA_y38IsW3fbQ4ydelI68WQKH8mRmKhXL2Sjw8Ptee0Wgbnn5t4tFMi3pd-QMg2" />
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Containers/Cavalier/container.css|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Cavalier/container.css|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Cavalier/container.css|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Cavalier/container.css|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/1/portal.css|DnnPageHeaderProvider|35)--><!--CDF(Css|/Resources/Search/SearchSkinObjectPreview.css|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/Search/SearchSkinObjectPreview.js|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/Templates/ContentModule.css|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/General/GlossaryTooltip.css|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/popper_2.5.3/popper.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/tippy_6.2.7/tippy-bundle.umd.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/Scripts/General/GlossaryTooltip.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/Scripts/General/FrequentContent.js|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/TeaserModule.css|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/General/GlossaryTooltip.css|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/popper_2.5.3/popper.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/tippy_6.2.7/tippy-bundle.umd.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/Scripts/General/GlossaryTooltip.js|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/TeaserModule.css|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/General/GlossaryTooltip.css|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/popper_2.5.3/popper.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/tippy_6.2.7/tippy-bundle.umd.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/Scripts/General/GlossaryTooltip.js|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/TeaserModule.css|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/Lotes/FrequentModules/Styles/General/GlossaryTooltip.css|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/popper_2.5.3/popper.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/libs/tippy_6.2.7/tippy-bundle.umd.min.js|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/Lotes/FrequentModules/Scripts/General/GlossaryTooltip.js|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.js|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js|DnnBodyProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_02_01/jquery.js|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js|DnnPageHeaderProvider|10)-->
+    
+</body>
+</html>

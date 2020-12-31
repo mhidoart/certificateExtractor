@@ -70,4 +70,7 @@ class Utils:
                     absPath = os.path.abspath(os.path.join(dirpath, f))
                     matches.append(absPath)
         return matches
-    
+
+    def create_folder(self, path):
+        if not os.path.exists(path):
+            os.makedirs(path)
