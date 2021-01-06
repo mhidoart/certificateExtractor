@@ -13,7 +13,12 @@ from shutil import copyfile
 
 class Utils:
 
+    def __init__(self, res_file_path="certificates/res.csv"):
+        # the file who will contain the base64 of all extracted certificates passed in constructor and by default is "certificates/res.csv"
+        self.extracted_certificates_files = res_file_path
+
     # this function has as parameter a file path and return the file name
+
     def path_leaf(self, path):
         head, tail = ntpath.split(path)
         return tail or ntpath.basename(head)
@@ -50,6 +55,16 @@ class Utils:
                 else:
                     write.writerow([item])
                 cp += 1
+# extracted_certificates_files is the path to the target file and data is what should be appended
+
+    def append_csv_file(self, data):
+        # no base64 certificates do nothing
+        if len(data) == 0:
+            pass
+
+        with open(self.extracted_certificates_files, "a", newline='') as f:
+            write = csv.writer(f, delimiter=",")
+            write.writerow(data)
 
     def copy_files_to_folder(self, src, dest="zipfiles", extension=".zip", delete_after_copy=False):
         files = self.fileList(src, extension)
