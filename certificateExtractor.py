@@ -38,9 +38,15 @@ zipfiles_path = os.path.join(".", "zipfiles")
 
 
 # class from the module Utils located in the file generalutilities
+<<<<<<< HEAD
 tools = Utils(os.path.join(outputFolder, "extracted_certificates.csv"))
 # create the folder which will hold the certificates:
 tools.create_folder(outputFolder)
+=======
+tools = Utils()
+# the module responsible of extracting base64 certificates
+parser = Base64Extractor()
+>>>>>>> csvExtractedCertificates
 
 
 def copy_downloaded_certificates():
@@ -75,7 +81,10 @@ def export_to_File(inputFileName, certificates):
 def extract_and_export(input_path, extension):
     # start extracting + exporting certificates
     files = tools.fileList(input_path, extension)
+<<<<<<< HEAD
     parser = Base64Extractor(tools)
+=======
+>>>>>>> csvExtractedCertificates
     print("total files : " + str(len(files)))
     for item in files:
         # fileDownloader.extract_urls_and_download(item)
@@ -170,3 +179,7 @@ copy_all_certificate_files()
 # (free up space) delete unzipped files copied certificates
 clean_used_folders()
 print(" \n all extracted certificates are stored in => " + str(outputFolder))
+print("\n creating a csv who contains all base64 of extracted certificates \n")
+parser.convert_certificates_to_base64(outputFolder)
+print(" \n all base64 are stored in  => " +
+      os.path.join(str(outputFolder), "results.csv"))

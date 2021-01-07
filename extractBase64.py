@@ -4,15 +4,27 @@ import re
 import os
 import email
 from generalUtilities import Utils
+<<<<<<< HEAD
+=======
+import csv
+>>>>>>> csvExtractedCertificates
 
 
 class Base64Extractor:
     def __init__(self, tools):
         self.listBase64 = list()
+<<<<<<< HEAD
         self.tools = tools
         self.certif_counter = 0
+=======
+        # class from the module Utils located in the file generalutilities
+        self.tools = Utils()
+
+>>>>>>> csvExtractedCertificates
 
 # this function get the attachements of a given email (base64 attachement)
+
+
     def isBase64(self, text):
         try:
             return base64.b64encode(base64.b64decode(str(text))) == text
@@ -100,9 +112,38 @@ class Base64Extractor:
             r'^(?:[a-zA-Z0-9+\/]{4})*(?:|(?:[a-zA-Z0-9+\/]{3}=)|(?:[a-zA-Z0-9+\/]{2}==)|(?:[a-zA-Z0-9+\/]{1}===))$', str(text))
         return res
 
+    def convert_file_to_base64(self, file_path):
+        with open(file_path, "rb") as f:
+            encoded = base64.b64encode(f.read())
+            # print(encoded.decode())
+            # print(encoded)
+            return encoded
+
+    def convert_certificates_to_base64(self, source):
+        files = self.tools.fileList(source, ".crt")
+        files.extend(self.tools.fileList(source, ".cer"))
+        print("extracted certificates => " + str(len(files)))
+        outputFile = os.path.join(source, "results.csv")
+        print("The output file => " + outputFile)
+        cols = ["source file", "base64"]
+        cp = 0
+        with open(outputFile, "w", newline='') as f:
+            write = csv.writer(f, delimiter=",")
+            write.writerow(cols)
+            for item in files:
+                write.writerow([str(item), self.convert_file_to_base64(item)])
+                # pourcentage of advencement on converting
+                print("convert result files to base64 => {0} {1} ".format(
+                    float("{:.2f}".format((cp*100)/len(files))), str("%")))
+                cp = cp + 1
+
 
 # if you want to test this module, execute the following
 '''
+b64 = Base64Extractor()
+b64.convert_certificates_to_base64(
+os.path.join(".", "certificates/certificates2021_01_07"))
+
 parser = Base64Extractor()
 parser.extract_from_file("samples/1.msg")
 parser.extract_from_text("""
