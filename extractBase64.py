@@ -4,23 +4,15 @@ import re
 import os
 import email
 from generalUtilities import Utils
-<<<<<<< HEAD
-=======
 import csv
->>>>>>> csvExtractedCertificates
 
 
 class Base64Extractor:
-    def __init__(self, tools):
+    def __init__(self):
         self.listBase64 = list()
-<<<<<<< HEAD
-        self.tools = tools
-        self.certif_counter = 0
-=======
         # class from the module Utils located in the file generalutilities
         self.tools = Utils()
 
->>>>>>> csvExtractedCertificates
 
 # this function get the attachements of a given email (base64 attachement)
 
@@ -73,24 +65,17 @@ class Base64Extractor:
                 # extend the list of base64 with the new ones
                 print(payload.get_filename())
                 filename = payload.get_filename()
-                if filename != None and any(exp in filename for exp in ['.crt', '.cer', '.zip', '.gz']):
-                    if(self.certif_counter == 0):
-                        self.tools.append_csv_file(
-                            ["extracted file", "source file", "base64"])
-                        self.certif_counter += 1
-                    try:
-                        with open(os.path.join('attachements', str(filename)), 'wb') as fp:
-                            fp.write(payload.get_payload(decode=True))
-                        # write the base 64 , file name ,result file name into a csv
-                        self.tools.append_csv_file(
-                            [str(payload.get_filename()), str(file_path).replace(",", ""), str(payload.get_payload()).encode('utf-8')])
-                    except Exception as ex:
-                        print("error parsing email : " + str(file_path))
-                # if(self.decoder(payload)(s))
-                # self.listBase64.extend(self.is_base64(payload.get_payload()))
-                # print(payload.get_payload())
+                try:
+                    with open(os.path.join('attachements', str(filename)), 'wb') as fp:
+                        fp.write(payload.get_payload(decode=True))
+                except Exception as ex:
+                    print("error parsing email : " + str(file_path))
+            # if(self.decoder(payload)(s))
+            # self.listBase64.extend(self.is_base64(payload.get_payload()))
+            # print(payload.get_payload())
         else:
-            print("# email has no attachement")
+            self.listBase64.extend(self.is_base64(emailContent.get_payload()))
+            # print(emailContent.get_payload())
         f.close()
 
 # this function decodes base64 in order to check if its valid  or not
